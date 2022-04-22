@@ -24,3 +24,6 @@ jobs:
       run: chmod +x gradlew
     - name: Build with Gradle
       run: ./gradlew build
+Copy and paste the following snippet into your .yml file.
+
+
